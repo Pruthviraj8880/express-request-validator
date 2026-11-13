@@ -18,7 +18,7 @@ A lightweight and reusable Express.js middleware for validating request body, qu
 ## Installation
 
 ```bash
-npm install express-request-validator
+npm install pruthviraj-express-request-validator
 ```
 
 Express must also be installed in your project:
@@ -31,7 +31,7 @@ npm install express
 
 ```javascript
 const express = require("express");
-const { validateRequest } = require("express-request-validator");
+const { validateRequest } = require("pruthviraj-express-request-validator");
 
 const app = express();
 
