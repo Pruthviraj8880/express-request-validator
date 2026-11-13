@@ -1,0 +1,28 @@
+
+{
+  "name": "express-request-validator",
+  "version": "1.0.0",
+  "description": "A lightweight and reusable Express.js request validation middleware.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "express",
+    "validator",
+    "request-validation",
+    "middleware",
+    "nodejs",
+    "api",
+    "validation"
+  ],
+  "author": "Pruthviraj",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "peerDependencies": {
+    "express": ">=4.0.0"
+  }
+}
